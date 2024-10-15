@@ -183,6 +183,12 @@ async void deleteItemButton_ItemClick(object sender, DevExpress.XtraBars.ItemCli
 * [MainForm.cs](./CS/WinForms.Client/MainForm.cs)
 * [DataServiceClient.cs](./CS/WinForms.Client/DataServiceClient.cs)
 
+## Related Examples
+
+* [Connect the DevExpress WinForms Data Grid to a .NET Core Service](https://github.com/DevExpress-Examples/connect-winforms-grid-to-dotnetcore-service)
+* [Connect a WinForms Data Grid to an ASP.NET Core WebAPI Service Powered by EF Core — Authenticate Users and Protect Data](https://github.com/DevExpress-Examples/connect-winforms-grid-to-dotnetcore-service-enable-pbac)
+* [Connect the DevExpress WinForms Data Grid to a Backend using a Middle Tier Server (EF Core without OData)](https://github.com/DevExpress-Examples/connect-winforms-grid-to-backend-using-middletier-server)
+
 ## See Also
 
 * [Connect a WinForms Data Grid to an Arbitrary ASP.NET Core WebAPI Service Powered by EF Core — Architecture and Data Binding (Part 1)](https://community.devexpress.com/blogs/news/archive/2024/08/30/connect-a-winforms-data-grid-to-a-net-core-service.aspx)
